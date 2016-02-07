@@ -1,1 +1,1 @@
-# xoasm
+# Kóko i krzyżyk x86
